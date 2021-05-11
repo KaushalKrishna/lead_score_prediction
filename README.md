@@ -5,7 +5,7 @@ X Education has appointed to help them select the most promising leads, i.e. the
 
 The tasks to finish in this case study:
 - Predicting the lead scores in the range of 0 to 100 for each lead
-- Prediction whther the lead will be converted or not
+- Prediction whether the lead will be converted or not
 - Getting the __recall__ to be more than `80%` as per business suggestions by the CEO
 
 
