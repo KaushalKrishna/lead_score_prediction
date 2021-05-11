@@ -8,5 +8,6 @@ The tasks to finish in this case study:
 - Prediction whether the lead will be converted or not
 - Getting the __recall__ to be more than `80%` as per business suggestions by the CEO
 
+Logistic regression used to predict probabilities and a threshold was decided with the probabilities for deciding the prediction if the lead will be converted or not.
 
 Project file - `lead-scoring.ipynb`
