@@ -10,4 +10,6 @@ The tasks to finish in this case study:
 
 Logistic regression used to predict probabilities and a threshold was decided with the probabilities for deciding the prediction if the lead will be converted or not.
 
-Project file - `lead-scoring.ipynb`
+Project file - `lead-scoring-final.ipynb`
+
+Presentation file - `presentation.ppt`
