@@ -12,4 +12,4 @@ Logistic regression used to predict probabilities and a threshold was decided wi
 
 Project file - `lead-scoring-final.ipynb`
 
-Presentation file - `presentation.ppt`
+Presentation file - `presentation.pdf`
